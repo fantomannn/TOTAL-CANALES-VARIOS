@@ -1,10 +1,11 @@
 TOTALPLAY
-#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maria.png" group-title="RELIGIÓN",María Visión
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tptotal.jpg" group-title="RECOMENDADOS",Canal Total
 https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=1973&f=.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
 https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=113&f=.m3u8
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maria.png" group-title="RELIGIÓN",María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
 https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=102&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="RECOMENDADOS",Imagen Televisión (HD)
