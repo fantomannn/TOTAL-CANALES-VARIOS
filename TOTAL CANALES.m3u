@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tptotal.jpg" group-title="RECOMENDADOS",Retro Plus TV Señal 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tptotal.jpg" group-title="RECOMENDADOS",Canal Total
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?caster
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
 https://regioplay.xyz/php/SR_REGIO_322023_/tpnuevo02.php?tokennn=Regio&c=113&f=.m3u8
