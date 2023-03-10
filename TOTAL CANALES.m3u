@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="CINE| DE PELICULA" tvg-logo="https://i.ibb.co/y07LGs1/DEPELICULA.jpg" group-title="CINE",CINE| DE PELICULA
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13832
+#EXTINF:-1 tvg-id="" tvg-name="CINE| DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg" group-title="CINE",CINE| DE PELICULA CLASICO
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13833
+#EXTINF:-1 tvg-id="" tvg-name="CINE| DE PELICULA PLUS" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg" group-title="CINE",CINE| DE PELICULA PLUS
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13831
 #EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Religious",María Visión Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1,Retro Plus TV Señal 3
