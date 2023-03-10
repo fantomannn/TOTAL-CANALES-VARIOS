@@ -7,8 +7,7 @@ https://c13mx.mediatiquestream.com/canal13michoacan/d0dbe915091d400bd8ee7f27f079
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,SM 16.1
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://i2.paste.pics/b558d6fde606a2bf8105c2ba0134282d.png", Transmedia TV Morelia | MX
-https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1,ESPN 2
 http://45.228.234.77:4430/play/espndoshd
@@ -169,7 +168,8 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
 #EXTINF:-1,Canal 28 NL
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
-
+#EXTINF:-1,SET TV 16.1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1,TV4 Gto.
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
 #EXTINF:-1,TV4.2 Gto.
@@ -179,9 +179,10 @@ https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 
 #EXTINF:-1,Diez Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-.com/canal13michoacan/d0dbe915091d400bd8ee7f27f0791303.sdp/canal13michoacan/live1/chunks.m3u8#EXTINF:-1,SM 16.1
+#EXTINF:-1,SM 16.1
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-
+#EXTINF:-1,13 DE MICHOACAN  
+https://c13mx.mediatiquestream.com/canal13michoacan/d0dbe915091d400bd8ee7f27f0791303.sdp/canal13michoacan/live1/chunks.m3u8
 #EXTINF:-1,TV Mas 26.1
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1,Sizart TV
@@ -632,6 +633,16 @@ http://190.60.39.62:8000/play/a00q
 
 
 
+MORELIA
+#EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://i2.paste.pics/b558d6fde606a2bf8105c2ba0134282d.png", Transmedia TV Morelia | MX
+https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SM 16.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="REGIONALES PÚBLICOS",SM 16.1
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF: -1,13 DE MICHOACAN  
+https://c13mx.mediatiquestream.com/canal13michoacan/d0dbe915091d400bd8ee7f27f0791303.sdp/canal13michoacan/live1/chunks.m3u8
+
 
 
 
@@ -640,11 +651,14 @@ http://190.60.39.62:8000/play/a00q
 
 
 MX
+#EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://i2.paste.pics/b558d6fde606a2bf8105c2ba0134282d.png", Transmedia TV Morelia | MX
+https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SM 16.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="REGIONALES PÚBLICOS",SM 16.1
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-
+#EXTINF: -1,13 DE MICHOACAN  
+https://c13mx.mediatiquestream.com/canal13michoacan/d0dbe915091d400bd8ee7f27f0791303.sdp/canal13michoacan/live1/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV * | MX
@@ -1362,7 +1376,8 @@ MUSICA
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Retro Plus TV Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1, Retro Plus TV Señal 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?caster
 
 
 #EXTINF:-1, Portal FoxMix
