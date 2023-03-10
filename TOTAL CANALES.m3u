@@ -21,7 +21,18 @@ https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 
 #EXTINF:-1,ESPN 2
 http://45.228.234.77:4430/play/espndoshd
-
+#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN x1" tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN x1
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51498
+#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN" tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51499
+#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN MX HD" tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN MX HD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51500
+#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN MX SD" tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN MX SD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51501
+#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN US" tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN US
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51502
+#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN US." tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN US.
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51503
 
 
 
