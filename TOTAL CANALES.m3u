@@ -1,12 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="CINE| DE PELICULA" tvg-logo="https://i.ibb.co/y07LGs1/DEPELICULA.jpg" group-title="CINE",CINE| DE PELICULA
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13832
-#EXTINF:-1 tvg-id="" tvg-name="CINE| DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg" group-title="CINE",CINE| DE PELICULA CLASICO
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13833
-#EXTINF:-1 tvg-id="" tvg-name="CINE| DE PELICULA PLUS" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg" group-title="CINE",CINE| DE PELICULA PLUS
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13831
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cine Latino (MOVIL)" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="CINE",Cine TV: Cine Latino (MOVIL)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/94
+
 #EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Religious",María Visión Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1,Retro Plus TV Señal 3
@@ -118,10 +111,7 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
 USA
 
-#EXTINF:-1 tvg-id="" tvg-name="USA | telemundo 52 test" tvg-logo="http://mylatinotv.com:8080/images/mexico1/telemundo.png" group-title="MEXICO",USA | telemundo 52 test
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51397
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Chicago" tvg-logo="http://mylatinotv.com:8080/images/mexico1/telemundo.png" group-title="MEXICO",USA | Telemundo Chicago
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51398
+
 #EXTINF:-1, Telemundo
 http://190.60.39.62:8000/play/a02g
 #EXTINF:-1, Telemundo
@@ -170,42 +160,6 @@ https://v-lv.mybtv.net/live/1026.m3u8
 
 #EXTINF:-1,ESPN 2
 http://45.228.234.77:4430/play/espndoshd
-#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN x1" tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN x1
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51498
-#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN" tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51499
-#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN MX HD" tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN MX HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51500
-#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN MX SD" tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN MX SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51501
-#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN US" tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN US
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51502
-#EXTINF:-1 tvg-id="" tvg-name="Dep|| TUDN US." tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="FUTBOL-MEXICO",Dep|| TUDN US.
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51503
-#EXTINF:-1 tvg-id="" tvg-name="Dep|| Afizzionados" tvg-logo="https://i.imgur.com/hWv3Frc.png" group-title="FUTBOL-MEXICO",Dep|| Afizzionados
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51494
-#EXTINF:-1 tvg-id="" tvg-name="Dep|| Afizzionados Opc 2" tvg-logo="http://mylatinotv.com:8080/images/mexico/afizzionados.png" group-title="FUTBOL-MEXICO",Dep|| Afizzionados Opc 2
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51495
-#EXTINF:-1 tvg-id="" tvg-name="Afizzionados HD - MX" tvg-logo="https://sport-tv-guide.live/images/tv-station-afizzionados-1424.png" group-title="FUTBOL-MEXICO",Afizzionados HD - MX
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51496
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:TUDN HD" tvg-logo="" group-title="FUTBOL-MEXICO",LA_HD_MEX2:TUDN HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51497
-#EXTINF:-1 tvg-id="" tvg-name="MEX| TVC" tvg-logo="" group-title="LAT MEXICO",MEX| TVC
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13927
-#EXTINF:-1 tvg-id="" tvg-name="MEX| TVC Deportes" tvg-logo="" group-title="LAT MEXICO",MEX| TVC Deportes
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13928
-#EXTINF:-1 tvg-id="" tvg-name="MX || TVCD SD" tvg-logo="http://mylatinotv.com:8080/images/mexico/tvcd.png" group-title="MEXICO",MX || TVCD SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/51239
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,Univisión 41 NY
 https://v-ny.mybtv.net/live/643.m3u8
 #EXTINF:-1,ADN 40 1.2 (-2h)
